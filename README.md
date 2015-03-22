@@ -10,8 +10,7 @@ Set Text View value from Edit Text with a button.
 			
 			@Override
 			public void onClick(View v) {
-//				tv.setText(et.getText());
-//				tv.setText(pg.getTextName(et.getText().toString()));
+
 				
 				Pugo pg = new Pugo();
 				
@@ -21,6 +20,9 @@ Set Text View value from Edit Text with a button.
 			}
 		});
 	}
+	
+	//				tv.setText(et.getText());
+//				tv.setText(pg.getTextName(et.getText().toString()));
 
 	private class Pugo {
 		String text;
