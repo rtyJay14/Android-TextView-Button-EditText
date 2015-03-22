@@ -1,5 +1,5 @@
 # Android-TextView-Button-EditText
-Set Text View value from Edit Text with a button.
+Set TextView value from EditText with a Button.
 
 
 	@Override
