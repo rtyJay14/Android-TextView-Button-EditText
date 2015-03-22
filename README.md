@@ -2,8 +2,6 @@
 Set Text View value from Edit Text with a button.
 
 
-public class MainActivity extends Activity {
-
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -43,4 +41,4 @@ public class MainActivity extends Activity {
 		}
 
 	}
-}
+
